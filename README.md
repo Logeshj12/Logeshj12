@@ -19,16 +19,16 @@
 </div>
 
 ###
-
-<img align="left" height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
-
+<div align="center">
+<img height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
+</div>
 ###
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/Logeshj12/count.svg?"  />
 </div>
 
