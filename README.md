@@ -20,7 +20,7 @@
 
 ###
 
-<img align="center" height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
+<img align="left" height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/Logeshj12/count.svg?"  />
 </div>
 
